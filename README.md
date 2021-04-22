@@ -1,5 +1,4 @@
-### ElGamal Cryptosystem
-## With Long Integer Computation Library
+### ElGamal cryptosystem with long integer library
 
 Emory Hufbauer [originally authored 04/21/16]
 
